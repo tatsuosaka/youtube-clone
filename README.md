@@ -4,6 +4,8 @@ Para a criação do clone do YouTube utilizei TypeScript, React, Next.js e Tailw
 
 Não foram implementadas funcionalidades reais, como a barra de busca ou login de usuário; o foco foi exclusivamente no design e na responsividade para dispositivos móveis.
 
-Alguns problemas com as imagens podem ocorrer, pois utilizei o serviço "Lorem Picsum" e alguns links parecem estar quebrados.
+Alguns problemas com as imagens podem ocorrer, pois utilizei o serviço "[Lorem Picsum](https://picsum.photos/)" e alguns links parecem estar quebrados.
 
 Este projeto forneceu uma base sólida para estudar e aprimorar suas habilidades em React e Tailwind CSS.
+
+[Youtube Clone](https://youtube-clone-beta-orpin.vercel.app/)
